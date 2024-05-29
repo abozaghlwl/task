@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(253, 241, 226);
+}
+h1{
+    color: rgb(71, 71, 243);
+}
+label{
+    display: block;
+}
+.container{
+    display: flex;
+    padding: 20px;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 12%;
+}
+input{
+    display: block;
+    margin-top: 8px;
+    padding: 7px 37px;
+    border-radius: 5px;
+    border: 1px solid;
+
+}
+button{
+    display: block;
+    margin-top: 10px;
+}
+.btn1{
+    padding: 5px 95px;
+    border-radius: 6px;
+    background-color: black;
+    color: aliceblue;
+}
+.btn2{
+    padding: 6px 40px;
+    border-radius: 6px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+img{
+    border-radius: 10px;
+    object-fit: contain;
+}
+.div1{
+    background-color: rgb(255, 255, 255);
+    padding: 35px;
+}
+.myimg{
+    width: 450px;
+    height: 310px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../image/img2.PNG);
+}
